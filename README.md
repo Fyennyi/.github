@@ -1,17 +1,17 @@
 ![CSSM Group](assets/logo.png)
 
-## Who we are
+## About Us
 
-We are a creative team of developers dedicated to enhancing the use of Android and applications for this OS. Our main activities include developing programs and websites. Established on October 24, 2018, by web and software developer Sergiy Chernega (Sergiy Morning).
+CSSM Group is a dynamic team of developers dedicated to improving the Android ecosystem and creating innovative applications. Since our establishment on October 24, we have been committed to delivering high-quality software solutions and web development services.
 
-## What we do
+## Our Work
 
-- Developing cross-platform modifications for Minecraft: Bedrock Edition.
-- Creating and maintaining several APK applications and J2ME themes.
-- Running the Fyennyi Translate to translate software products into Ukrainian.
-- Offering business services through CSSM Service, including CSSM Trusted Peoples, CSSM License, CSSM Monitoring, and CHOST Ukraine (Hosting).
-- Publishing Android apps via CSSM Market and providing internal resources like J2ME programs, wallpapers, and music melodies.
+- Creating cross-platform modifications for Minecraft: Bedrock Edition.
+- Developing and maintaining multiple APK applications and J2ME themes.
+- Operating Fyennyi Translate to localize software products into Ukrainian.
+- Providing business services through CSSM Service, including trusted personnel, licensing, monitoring, and hosting solutions.
+- Distributing Android apps via CSSM Market and offering internal resources such as J2ME programs, wallpapers, and music.
 
-## Interested in joining us?
+## Join Us
 
-Did we capture your interest in working with CSSM Group? Check [here](https://www.linkedin.com/company/cssmgroup) to see open positions and how to apply for a job!
+Are you interested in joining CSSM Group? Visit our [LinkedIn page](https://www.linkedin.com/company/cssmgroup) to explore current job openings and learn how to apply!
