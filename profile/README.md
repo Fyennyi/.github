@@ -1,5 +1,3 @@
-![CSSM Group](assets/logo.png)
-
 ## About Us
 
 CSSM Group is a dynamic team of developers dedicated to improving the Android ecosystem and creating innovative applications. Since our establishment on October 24, we have been committed to delivering high-quality software solutions and web development services.
